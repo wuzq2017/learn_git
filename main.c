@@ -36,8 +36,14 @@ branch main modify!
 /*
   issue_0002 fixed
  */
+<<<<<<< HEAD
 
 
 /*
   this budy modify.
  */
+=======
+/*
+ *another budy modify.
+ * */
+>>>>>>> 54f8876e64444518f9652c3fd994ec70a5b820e0
