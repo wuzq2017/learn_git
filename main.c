@@ -14,4 +14,11 @@ void main(void)
   sum1 = sum(1,3);
   printf("%d\n",sum1);
   printf("hello\n");
+  printf("the end\n");
+}
+
+int sub(int a, int b)
+{
+  int diff = a - b;
+  return diff;
 }
