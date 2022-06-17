@@ -23,6 +23,13 @@ int sub(int a, int b)
   return diff;
 }
 /*
+<<<<<<< HEAD
 branch main modify!
 1111111111111111111111111
+*/
+
+/*
+=======
+  branch dev modified
+>>>>>>> dev
 */
